@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Добро пожаловать в блог Dimas Clever
 
-I'm glad you are here. I plan to talk about ...
+*Это блог о хорошем кино*
