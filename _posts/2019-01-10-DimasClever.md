@@ -1,4 +1,2 @@
-title: "Welcome to my blog DimasClever"
--
-date: 2019-01-20
--
+title: "Your blog post title"
+date: 2019-01-10
